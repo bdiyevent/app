@@ -30,4 +30,4 @@
    <br>
    or
    <br>
-   row : you can create a function to place a qr string return
+   raw : you can create a function to place a qr string return
